@@ -8,7 +8,6 @@ Predicts house prices using Ridge Regression | Ames Housing Dataset | Streamlit 
 A machine learning web app that predicts house prices based on the Ames Housing dataset.
 
 ## Live Demo
-## Live Demo
 https://house-price-predictor182.streamlit.app
 
 ## Project Overview
